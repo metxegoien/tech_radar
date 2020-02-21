@@ -1,0 +1,12 @@
+label,ring,quadrant,active,link
+kotlin, 0, 2,true, example.html
+c++, 0, 2, true, example.html
+C, 0, 2,true, example.html
+Java, 0, 2, true, example.html
+Rust, 3, 2, true, example.html
+Android Automotive, 1, 0, true, example.html
+Autosar, 1, 0, true, example.html
+WebOS, 1, 3, true, example.html
+QNX, 1, 2, true, example.html
+Greenhills, 1, 2, true, example.html
+Linux, 1, 0, true, example.html
