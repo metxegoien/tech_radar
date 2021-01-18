@@ -34,7 +34,7 @@ import jinja2
 #common vars, edit here for convenience
 data_file = 'data.csv'
 template_file = 'tech_radar_templates.html'
-output_file = 'index2.html'
+output_file = 'radar.html'
 
 
 #please note, we're going cowboy here, no error management ahead, use at your own risk :)
